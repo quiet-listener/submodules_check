@@ -1,0 +1,6 @@
+[submodule "devops-intro-project"]
+	path = devops-intro-project
+	url = https://github.com/ghosts-hub/devops-intro-project.git
+[submodule "panky_devops"]
+	path = panky_devops
+	url = https://github.com/ghosts-hub/panky_devops.git
